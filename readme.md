@@ -16,3 +16,6 @@
 </p>
 
 
+<span>App para testar a funcionalidade de zoom em fotos</span>
+
+
